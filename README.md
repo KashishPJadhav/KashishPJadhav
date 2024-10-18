@@ -2,6 +2,14 @@
 <div align="center">
   <img height="150" src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif"  />
 </div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/https://in.linkedin.com/in/kashishjadhav/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="kashupj56@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
 <!---
 KashishPJadhav/KashishPJadhav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
